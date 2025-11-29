@@ -40,7 +40,7 @@ export async function detectDisease(
 
   let data: DetectionApiResponse;
   try {
-    const response = await fetch('https://edge-ai-crop-rakshak.loca.lt/api/image', {
+    const response = await fetch('http://localhost:1337/api/image', {
       method: 'POST',
       body: apiFormData,
       headers: {
