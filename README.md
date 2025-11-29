@@ -35,12 +35,9 @@ Provides continuous monitoring and personalized treatment recommendations, impro
 
 A plant leaf dataset was uploaded to **Edge Impulse** to train a lightweight and efficient image classification model optimized for edge devices.
 
----
-
 #### 1.1 Dataset
 
 The dataset used for training comes from publicly available Kaggle collections:
-
 - [PlantDisease Dataset](https://www.kaggle.com/datasets/emmarex/plantdisease)  
 - [Plant Disease Recognition Dataset](https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset)
 
@@ -220,6 +217,23 @@ docker run --rm -it \
 ## Architecture & Flow
 
 <img width="1860" height="980" alt="EdgeAI Architecture (1)" src="https://github.com/user-attachments/assets/717ea4a4-42b3-4001-8c1e-77d9d6e15612" />
+
+## Application Pages
+
+<img width="2872" height="1631" alt="home-page" src="https://github.com/user-attachments/assets/20c319f5-197c-4cc6-b29a-c1860a47f4b6" />
+
+<img width="2879" height="1640" alt="analyze-page-1" src="https://github.com/user-attachments/assets/4d684dab-aa7a-441b-8ac1-92f4ca48fac9" />
+
+<img width="2877" height="1632" alt="analyze-page-2" src="https://github.com/user-attachments/assets/aef8a385-dc44-41c5-9bcf-f09a65325f74" />
+
+<img width="2850" height="1661" alt="analyze-page-3" src="https://github.com/user-attachments/assets/d215b330-62bc-4688-b5ca-e1fc4ee6717a" />
+
+<img width="2870" height="1634" alt="analyze-page-4" src="https://github.com/user-attachments/assets/4b5ddae7-8d11-4c1c-a91a-c44fa5368a55" />
+
+
+
+
+
 
 
 # **Built with love ❤️ and innovation for the Edge AI Contest by Edge Impulse.**
